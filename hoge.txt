@@ -6,3 +6,4 @@ hoge
 gouf
 deff
 git-prompt.shテスト
+ブランチからのコミットとプルリクエスト
